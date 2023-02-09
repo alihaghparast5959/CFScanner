@@ -65,14 +65,14 @@ A video guide usage can be found in [youtube](https://youtu.be/xzuMnxEw97U "yout
 
 #### دستورات مورد نياز کار با اسکريپت
 1- run scripts
-#cd CFScripts/scripts
-#ls
-#bash #cfFindIP.SH 16
-#CAT /proc/cpuinfo | grep proc
-#bash cfFindIP.SH 16
+1-1 cd CFScripts/scripts
+1-2 ls
+1-3 bash #cfFindIP.SH 16
+1-4 CAT /proc/cpuinfo | grep proc
+1-5 bash cfFindIP.SH 16
 
 2- view scripts report 
-#cd CFScripts/result
-#ls -l
-#less (file name report)
-#sort -n (file name report) | less
+2-1 cd CFScripts/result
+2-2 ls -l
+2-3 less (file name report)
+2-4 sort -n (file name report) | less
