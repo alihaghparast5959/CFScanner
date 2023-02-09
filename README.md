@@ -72,6 +72,5 @@ It will generate a file by datetime in result direcotry
 2-3 less (file name report)
 2-4 sort -n (file name report) | less
 
-
 ## Video guide
 A video guide usage can be found in [youtube](https://youtu.be/xzuMnxEw97U "youtube").
