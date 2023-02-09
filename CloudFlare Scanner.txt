@@ -1,0 +1,28 @@
+CloudFlare Scanner
+#install app
+apt install git -y 
+apt install bc -y
+apt install curl -y
+apt install nmap -y
+apt install parallel -y
+
+# git clone https://github.com/MortezaBashsiz/CFScanner.git
+# cd CFScanner/scripts
+# chmod +x v2ctl v2ctl-mac v2ray v2ray-mac
+# curl -s http://bot.sudoer.net/config.real -o ./config.real
+# bash cfFindIP.sh 8 ./config.real
+# ls result/
+
+
+1- run scripts
+cd CFScanner/scripts
+ls
+bash #cfFindIP.SH 16
+CAT /proc/cpuinfo | grep proc
+bash cfFindIP.SH 16
+
+2- view scripts report 
+cd CFScripts/result
+ls -l
+less (file name report)
+sort -n (file name report) | less
