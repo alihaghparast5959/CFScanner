@@ -61,7 +61,7 @@ It will generate a file by datetime in result direcotry
 ### Commands needed to work with the script
 1- run scripts
 
-1-1 cd CFScripts/scripts
+1-1 cd CFScanner/scripts
 
 1-2 ls
 
