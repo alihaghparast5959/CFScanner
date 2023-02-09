@@ -58,12 +58,7 @@ It will generate a file by datetime in result direcotry
 20230120-203358-result.cf
 [~/CFScanner]>$
 ```
-
-## Video guide
-A video guide usage can be found in [youtube](https://youtu.be/xzuMnxEw97U "youtube").
-
-
-#### دستورات مورد نياز کار با اسکريپت
+### Commands needed to work with the script
 1- run scripts
 1-1 cd CFScripts/scripts
 1-2 ls
@@ -76,3 +71,7 @@ A video guide usage can be found in [youtube](https://youtu.be/xzuMnxEw97U "yout
 2-2 ls -l
 2-3 less (file name report)
 2-4 sort -n (file name report) | less
+
+
+## Video guide
+A video guide usage can be found in [youtube](https://youtu.be/xzuMnxEw97U "youtube").
