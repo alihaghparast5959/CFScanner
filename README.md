@@ -61,3 +61,18 @@ It will generate a file by datetime in result direcotry
 
 ## Video guide
 A video guide usage can be found in [youtube](https://youtu.be/xzuMnxEw97U "youtube").
+
+
+#### دستورات مورد نياز کار با اسکريپت
+1- run scripts
+cd CFScripts/scripts
+ls
+bash #cfFindIP.SH 16
+CAT /proc/cpuinfo | grep proc
+bash cfFindIP.SH 16
+
+2- view scripts report 
+cd CFScripts/result
+ls -l
+less (file name report)
+sort -n (file name report) | less
