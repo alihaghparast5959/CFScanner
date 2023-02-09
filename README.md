@@ -60,8 +60,11 @@ It will generate a file by datetime in result direcotry
 ```
 ### Commands needed to work with the script
 1- run scripts
+
 1-1 cd CFScripts/scripts
+
 1-2 ls
+
 1-3 bash #cfFindIP.SH 16
 1-4 CAT /proc/cpuinfo | grep proc
 1-5 bash cfFindIP.SH 16
