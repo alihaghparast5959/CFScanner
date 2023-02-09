@@ -59,7 +59,7 @@ It will generate a file by datetime in result direcotry
 [~/CFScanner]>$
 ```
 ### Commands needed to work with the script
-run scripts
+1- run scripts
 
 1-1 cd CFScripts/scripts
 
@@ -71,7 +71,7 @@ run scripts
 1-5 bash cfFindIP.SH 16
 
 
-view scripts report 
+2- view scripts report 
 
 2-1 cd CFScripts/result
 
